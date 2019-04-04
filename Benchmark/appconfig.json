@@ -1,0 +1,6 @@
+{
+  "data_path": "~/Benchmark/data/",
+  "train_rows": 1000,
+  "test_rows": 1000
+}
+}
